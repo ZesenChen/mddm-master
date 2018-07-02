@@ -1,0 +1,9 @@
+function [Outputs,Pre_Labels] = LMDDM(train_data,train_target,test_data,test_target, projtype, mu, dim_para)
+%UNTITLED2 此处显示有关此函数的摘要
+%   此处显示详细说明
+    
+[num_train, feature_dim] = size(train_data);
+
+
+end
+
